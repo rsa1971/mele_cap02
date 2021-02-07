@@ -1,6 +1,6 @@
 # mele_cap02
 Habilitando nosso blog com quadros avançados.
-Projeto de um site em Django
+Projeto de um blog em Django
 
 # virtualenv
 """ 
