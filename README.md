@@ -3,13 +3,33 @@ Habilitando nosso blog com quadros avançados.
 Projeto de um site em Django
 
 # virtualenv
-""" Para  instalar o virtualenv
+""" 
+Para  instalar o virtualenv
+
+python -m venv .venv
+"""
+
+"""
+Para ativar o virtuaenv
+
 .venv\Script\activate
 
-\(.venv) C:\Users\Renato\PycharmProjects\mele_cap02\
+(.venv) C:\Users\Renato\PycharmProjects\mele_cap02\
 
 Para desinstalar
 deactivate
+"""
+
+"""
+Para desenvolvedores
+
+pip intall -r requeriments.txt
+"""
+
+"""
+Para conferir qualidade do código
+
+Pycharm > Terminal > flake8
 """
 
 # versão do python
@@ -37,3 +57,4 @@ Ou, no console do python:
 >>> django.get_version()
 
 """  
+
