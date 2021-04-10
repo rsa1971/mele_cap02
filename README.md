@@ -12,7 +12,7 @@ python -m venv .venv
 """
 Para ativar o virtuaenv
 
-.venv\Script\activate
+.venv\Scripts\activate
 
 (.venv) C:\Users\Renato\PycharmProjects\mele_cap02\
 
